@@ -1,0 +1,11 @@
+{
+  "inprefix": "/Users/mjohnpayne/Library/CloudStorage/OneDrive-UNSW/PycharmProjects/degub_MPCR/reads/",
+  "insuffix": "_R1_001.fastq.gz",
+  "r1r2": ["_R1_","_R2_"],
+  "outpref": "/Users/mjohnpayne/Library/CloudStorage/OneDrive-UNSW/PycharmProjects/degub_MPCR/outputs/test",
+  "primers": "/Users/mjohnpayne/Library/CloudStorage/OneDrive-UNSW/PycharmProjects/degub_MPCR/mpcr_files/ptxp3_primers.fa",
+  "nonprimertargets": "/Users/mjohnpayne/Library/CloudStorage/OneDrive-UNSW/PycharmProjects/degub_MPCR/mpcr_files/ptxp3_internal_amplicons.fa",
+  "targets": "/Users/mjohnpayne/Library/CloudStorage/OneDrive-UNSW/PycharmProjects/degub_MPCR/mpcr_files/ptxp3_internal_amplicons_wprimer.fa",
+  "adapters": "/Users/mjohnpayne/Library/CloudStorage/OneDrive-UNSW/PycharmProjects/degub_MPCR/mpcr_files/illumina_adapters.fasta",
+  "snpdata": "/Users/z3521839/Library/CloudStorage/OneDrive-UNSW/PycharmProjects/degub_MPCR/mpcr_files/raisa_snpdata.txt"
+}

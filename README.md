@@ -1,2 +1,2 @@
 # debug-mpcr
-A script to examine amplicon sequencing of multiplex PCR assays
+A snakemake pipeline to examine amplicon sequencing of multiplex PCR assays

@@ -1,0 +1,12 @@
+name: mpcr_debug
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python>=3.10
+  - snakemake
+  - biopython
+  - fastp
+  - flash
+  - scikit-bio
